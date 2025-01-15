@@ -8,4 +8,4 @@ access_control:
   enabled: true
   policies:
     - tag_query: ''
-      apply: ['team:devops']
+      apply: ['user:Cipher-08']
